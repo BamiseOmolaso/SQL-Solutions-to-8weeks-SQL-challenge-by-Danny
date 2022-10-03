@@ -1,0 +1,1 @@
+# SQL-Solutions-to-8weeks-SQL-challenge-by-Danny
